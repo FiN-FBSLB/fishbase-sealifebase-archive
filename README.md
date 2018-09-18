@@ -2,6 +2,8 @@
 
 Tabular archives generated from FishBase and SeaLifeBase database. Precompiled archives can be found in the [releases](../../releases) section.
 
+[![DOI](https://zenodo.org/badge/149221981.svg)](https://zenodo.org/badge/latestdoi/149221981)
+
 ## expected results
 
 The archives are gzip compressed, tab separated files. The first few lines of ```stocks_fishbase.tsv.gz``` look like:
